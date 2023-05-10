@@ -1,1 +1,2 @@
-# .github
+# PIt Internship Portfolio
+
